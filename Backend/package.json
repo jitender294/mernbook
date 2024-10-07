@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jitender294/bookappp.git"
+        "url": "git+https://github.com/jitender294/mernbook.git"
     },
     "author": "Jitender",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jitender294/bookappp.git/issues"
+        "url": "https://github.com/jitender294/mernbook.git/issues"
     },
-    "homepage": "https://github.com/jitender294/bookappp.git#readme",
+    "homepage": "https://github.com/jitender294/mernbook.git#readme",
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "cors": "^2.8.5",
