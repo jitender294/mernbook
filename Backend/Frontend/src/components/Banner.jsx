@@ -28,7 +28,7 @@ function Banner() {
               <input type="text" className="grow" placeholder="Email" />
             </label>
           </div>
-          <button className="btn mt-6 btn-secondary">Get Started</button>
+          <button className="btn mt-6 btn-secondary" style={{ backgroundColor: 'red', borderColor: 'red' }}>Get Started</button>
         </div>
         <div className=" order-1 w-full mt-20 md:w-1/2">
           <img
