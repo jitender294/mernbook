@@ -13,7 +13,7 @@ function Course() {
       } catch (error) {
         console.log(error);
       }
-    };  
+    };
     getBook();
   }, []);
   return (
@@ -25,13 +25,7 @@ function Course() {
             <span className="text-pink-500"> Here! :)</span>
           </h1>
           <p className="mt-12">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Porro,
-            assumenda? Repellendus, iste corrupti? Tempore laudantium
-            repellendus accusamus accusantium sed architecto odio, nisi expedita
-            quas quidem nesciunt debitis dolore non aspernatur praesentium
-            assumenda sint quibusdam, perspiciatis, explicabo sequi fugiat amet
-            animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
-            consequatur!
+            The paid course section in the navbar should provide easy access to premium content for users who have subscribed. It should be clearly labeled as “Paid Courses” or “Premium Access” to distinguish it from free content. Ensure the section includes links to available courses, subscription plans, and user account management. A dropdown menu could offer quick navigation to various categories of paid courses. Additionally, the section should display any active promotions or discounts and prompt non-subscribed users to sign up or learn more about the benefits of the paid offerings.
           </p>
           <Link to="/">
             <button className="mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">
