@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jitender294/mernbook.git"
+        "url": "git+https://github.com/jitender294/mernbook1.git"
     },
     "author": "Jitender",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jitender294/mernbook.git/issues"
+        "url": "https://github.com/jitender294/mernbook1.git/issues"
     },
-    "homepage": "https://github.com/jitender294/mernbook.git#readme",
+    "homepage": "https://github.com/jitender294/mernbook1.git#readme",
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "cors": "^2.8.5",
